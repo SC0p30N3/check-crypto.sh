@@ -18,4 +18,6 @@ LTC - Litecoin
 
 XZC - Zcoin
 
+DBG - DigiByte
+
 Colors and order are arbitrary currently. 
